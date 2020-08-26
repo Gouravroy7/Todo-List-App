@@ -32,6 +32,7 @@ function  newNode(){
     currButton.setAttribute("onclick","somefun()")
     
     currentItem.appendChild(itemText)
+       
     currentItem.appendChild(currButton)
     
     console.log(currentItem)
