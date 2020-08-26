@@ -1,0 +1,48 @@
+#body{
+  background-color: aqua;
+  text-align: center;
+  margin-top: 5%;
+}
+
+#enter-task{
+  padding: 1%;
+  font-weight: 10;
+  font-size: 20px;
+}
+
+.button{
+  background-color: cornflowerblue;
+  padding: 0.5%;
+  color: white;
+}
+.itemlist1{
+    background-color : white;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    padding-right: 2%;
+    scroll-padding-left: 2%;
+    line-break: 100%;
+    font-size: 20;
+    margin-right:300px;
+    margin-left: 300px;
+}
+
+.itemlist2{
+    background-color: peachpuff;
+    padding-bottom: 0.5%;
+    padding-top: 1%;
+    padding-right: 2%;
+    scroll-padding-left: 2%;
+    line-break: 100%;
+    font-size: 20;
+    margin-right:300px;
+    margin-left: 300px;
+    border: 1px solid black;
+}
+
+.del-item
+{
+  background-color: violet;
+  color: white;
+  list-style-position: outside;
+}
