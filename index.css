@@ -1,5 +1,8 @@
 #body{
-  background-image: url("https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png");
+  background-image: linear-gradient(0deg , #00000080 90%, #00000080 50%),url("https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
   text-align: center;
   margin-top: 5%;
 }
