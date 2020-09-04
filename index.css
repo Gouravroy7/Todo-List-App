@@ -41,6 +41,7 @@
     margin-right:300px;
     margin-left: 300px;
     border: 1px solid black;
+    list-style-type : none;
 }
 
 .del-item
